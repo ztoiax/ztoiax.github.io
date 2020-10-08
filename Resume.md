@@ -28,7 +28,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://ztoiax.gitee.io/">简历主页</a>
+             <a href="https://ztoiax.gitee.io/ztoiax.github.io/">简历主页</a>
          </span>
      </div>
  </center>
