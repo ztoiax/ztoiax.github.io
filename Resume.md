@@ -26,6 +26,10 @@
              <a href="https://gitee.com/ztoiax">gitee</a>
          </span>
          ·
+         <span>
+             <img src="assets/rss-solid.svg" width="18px">
+             <a href="https://ztoiax.gitee.io/">简历主页</a>
+         </span>
      </div>
  </center>
 
@@ -40,8 +44,8 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- **职中**：广州电子信息学校，网络技术，2013.9~2016.6
-- **大专**: 广州城市职业学院，网络技术，2016.9~2018.6
+- **职中:** 广州电子信息学校，网络技术，2013.9~2016.6
+- **大专:** 广州城市职业学院，网络技术，2016.9~2018.6
 - **2018.6~至今**：本打算学习编程(学习过 c 语言，lisp 语言，一些计算机体系结构，操作系统理论)，学的一知半解，发现自己似乎并不擅长编程，以及一些家庭原因拖到现在。
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
