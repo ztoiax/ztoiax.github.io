@@ -51,8 +51,12 @@
 - 广州市初茶餐饮有限公司(类似喜茶): 服务员，2018.2~2018.6
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+- 我目前使用**arck linux**作为日常操作系统，折腾过zsh，st，dwm...等日常软件，在kvm虚拟机部署centos7作为服务器,学习网络，`nginx`，`kvm`等知识(可以看我[github主页](https://github.com/ztoiax/))
 
-- **学习 linux 时，自己写的笔记** [项目地址](https://gitee.com/ztoiax/notes)
+- 我喜欢看**历史**，**政治**，**哲学**类书籍(具体可以看我[豆瓣主页](https://www.douban.com/people/108569039/))
+---
+
+- **学习 linux 时，自己写的笔记** [项目地址(github)](https://github.com/ztoiax/notes) [项目地址(gitee)](https://gitee.com/ztoiax/notes)
   > - [systemd 维护](https://gitee.com/ztoiax/notes/blob/master/systemd.md)
   > - [git 版本控制工具](https://gitee.com/ztoiax/notes/blob/master/git.md)
   > - [iptables 防火墙](https://gitee.com/ztoiax/notes/blob/master/iptables.md)
@@ -60,8 +64,10 @@
   > - [基本的文件字符串操作](https://gitee.com/ztoiax/notes/blob/master/common.md)
   > - [git 版本控制工具](https://gitee.com/ztoiax/notes/blob/master/git.md)
   > - [dmenu 如何配合正则表达式](https://gitee.com/ztoiax/notes/blob/master/dmenu.md)
-  > - [nginx](https://gitee.com/ztoiax/notes/blob/master/nginx.md)
   > - [awesomecli 好用的命令行工具](https://gitee.com/ztoiax/notes/blob/master/awesomecli.md)
+- LNMP
+  > - [nginx](https://gitee.com/ztoiax/notes/blob/master/nginx.md)
+  > - [mysql](https://gitee.com/ztoiax/notes/blob/master/mysql.md)
   > - ...
 
 ---
@@ -70,4 +76,3 @@
   > - [一键解压支持(7z,bz,gz,xz...)](https://gitee.com/ztoiax/userfulscripts/blob/master/myx.sh)
   > - [一键打包 tar 命令,支持(7z,bz,gz,xz...)](https://gitee.com/ztoiax/userfulscripts/blob/master/mytar.sh)
   > - ...
-- **我看的一些书和电影** [豆瓣主页](https://www.douban.com/people/108569039/)
