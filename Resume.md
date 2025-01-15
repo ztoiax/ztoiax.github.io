@@ -28,7 +28,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://ztoiax.gitee.io/ztoiax.github.io/">这篇简历的在线网址</a>
+             <a href="https://ztoiax.github.io/">这篇简历的在线网址</a>
          </span>
      </div>
  </center>
